@@ -1,5 +1,7 @@
 body {
-  background: yellow;
+  background: green;
+  color: white;
+  font-size: 3rem;
   height: 100vh;
   width: 100vw;
 }
